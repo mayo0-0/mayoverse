@@ -4,9 +4,8 @@ configuration:
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
-  analytics:
-    provider: plausible
-  locale: en-US
+  analytics: null
+  locale: en-IN
   baseUrl: mayoverse.me
   ignorePatterns:
     - private
