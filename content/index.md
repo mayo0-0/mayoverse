@@ -14,3 +14,5 @@ Bored+Unemployed
 [Articles](https://articles.mayoverse.me)
 [Politics](https://politics.mayoverse.me)
 
+What are those above links?
+I told you this is for me, figure it out yourself bleh.
