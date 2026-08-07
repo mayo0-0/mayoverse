@@ -2,10 +2,10 @@
 title: Welcome to mayoverse
 ---
 What is mayoverse?  
-you don't wanna know
+idk man atp its js ntg
 
-What do I do here?  
-its "mayoverse" clearly its for me, you should press the x button on this tab
+What do I (you) do here?  
+idk
 
 Why was this made?  
 Bored+Unemployed
@@ -15,4 +15,4 @@ Bored+Unemployed
 [Politics](https://politics.mayoverse.me)  
 
 What are those above links?  
-I told you this is for me, figure it out yourself bleh.
+pretty obvious innit?
