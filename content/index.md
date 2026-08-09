@@ -10,6 +10,7 @@ idk
 Why was this made?  
 Bored+Unemployed
 
+[Showcase](https://showcase.mayoverse.me)  
 [Verses](https://verses.mayoverse.me)  
 [Articles](https://articles.mayoverse.me)  
 [Politics](https://politics.mayoverse.me)  
